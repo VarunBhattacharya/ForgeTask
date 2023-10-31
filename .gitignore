@@ -1,2 +1,3 @@
 .venv/
 .env/
+forge-task/node_modules/
