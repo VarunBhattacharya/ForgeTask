@@ -1,0 +1,4 @@
+1.) Install NodeJS and npm package --> https://nodejs.org/en/download
+2.) Install Angular CLI --> npm install -g @angular/cli
+3.) Set Execution Policy (Windows) --> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+4.) 
